@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSS_ile_Haber_Cekme", "RSS_ile_Haber_Cekme\RSS_ile_Haber_Cekme.csproj", "{B900E65A-2856-4073-899E-0EF84C20F67C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B900E65A-2856-4073-899E-0EF84C20F67C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B900E65A-2856-4073-899E-0EF84C20F67C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B900E65A-2856-4073-899E-0EF84C20F67C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B900E65A-2856-4073-899E-0EF84C20F67C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B48315F8-0C3D-40AA-AE7A-B56FE49A5404}
+	EndGlobalSection
+EndGlobal

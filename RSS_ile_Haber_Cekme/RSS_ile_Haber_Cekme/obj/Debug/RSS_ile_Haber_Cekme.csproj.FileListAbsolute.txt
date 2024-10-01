@@ -1,0 +1,10 @@
+C:\Users\faruk\source\repos\RSS_ile_Haber_Cekme\RSS_ile_Haber_Cekme\bin\Debug\RSS_ile_Haber_Cekme.exe.config
+C:\Users\faruk\source\repos\RSS_ile_Haber_Cekme\RSS_ile_Haber_Cekme\bin\Debug\RSS_ile_Haber_Cekme.exe
+C:\Users\faruk\source\repos\RSS_ile_Haber_Cekme\RSS_ile_Haber_Cekme\bin\Debug\RSS_ile_Haber_Cekme.pdb
+C:\Users\faruk\source\repos\RSS_ile_Haber_Cekme\RSS_ile_Haber_Cekme\obj\Debug\RSS_ile_Haber_Cekme.csproj.AssemblyReference.cache
+C:\Users\faruk\source\repos\RSS_ile_Haber_Cekme\RSS_ile_Haber_Cekme\obj\Debug\RSS_ile_Haber_Cekme.Form1.resources
+C:\Users\faruk\source\repos\RSS_ile_Haber_Cekme\RSS_ile_Haber_Cekme\obj\Debug\RSS_ile_Haber_Cekme.Properties.Resources.resources
+C:\Users\faruk\source\repos\RSS_ile_Haber_Cekme\RSS_ile_Haber_Cekme\obj\Debug\RSS_ile_Haber_Cekme.csproj.GenerateResource.cache
+C:\Users\faruk\source\repos\RSS_ile_Haber_Cekme\RSS_ile_Haber_Cekme\obj\Debug\RSS_ile_Haber_Cekme.csproj.CoreCompileInputs.cache
+C:\Users\faruk\source\repos\RSS_ile_Haber_Cekme\RSS_ile_Haber_Cekme\obj\Debug\RSS_ile_Haber_Cekme.exe
+C:\Users\faruk\source\repos\RSS_ile_Haber_Cekme\RSS_ile_Haber_Cekme\obj\Debug\RSS_ile_Haber_Cekme.pdb
